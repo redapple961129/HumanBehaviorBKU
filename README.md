@@ -36,7 +36,7 @@ Django web application. See [WebApp](https://github.com/dolongbien/HumanBehavior
 | [Makefile.config][makefile] |Configuration file to build C3D Caffe model|
 | [Train/Test Code][traintestcode] | Jupyter notebook for Traning/Testing process |
 
-If you find any bug, or have some questions, feel free to contact any of these: Bien Do (okura.kantaro1129@gmail.com), Hoai Do (1511093@hcmut.edu.vn), Dat Nguyen (1510700@hcmut.edu.vn).
+If you find any bug, or have some questions, feel free to contact me:(okura.kantaro1129@gmail.com).
 
 ## References
 
@@ -48,10 +48,4 @@ International Conference on Computer Vision (ICCV), Dec. 2015 .
 
 
 
-   [realworld]: <https://arxiv.org/pdf/1801.04264.pdf>
-   [c3d]: <https://arxiv.org/pdf/1412.0767.pdf>
-   [c3dfolder]: <https://github.com/dolongbien/HumanBehaviorBKU/tree/master/C3D>
-   [scripts]: <https://github.com/dolongbien/HumanBehaviorBKU/tree/master/Scripts>
-   [annotation]: <https://github.com/dolongbien/HumanBehaviorBKU/tree/master/Temporal_Annotations>
-   [makefile]: <https://github.com/dolongbien/HumanBehaviorBKU/blob/master/Makefile.config>
-   [traintestcode]: <https://github.com/markdown-it/markdown-it>
+  
