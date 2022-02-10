@@ -36,7 +36,7 @@ Django web application. See [WebApp](https://github.com/dolongbien/HumanBehavior
 | [Makefile.config][makefile] |Configuration file to build C3D Caffe model|
 | [Train/Test Code][traintestcode] | Jupyter notebook for Traning/Testing process |
 
-If you find any bug, or have some questions, feel free to contact any of these: Bien Do (dolongbien1205@gmail.com), Hoai Do (1511093@hcmut.edu.vn), Dat Nguyen (1510700@hcmut.edu.vn).
+If you find any bug, or have some questions, feel free to contact any of these: Bien Do (okura.kantaro1129@gmail.com), Hoai Do (1511093@hcmut.edu.vn), Dat Nguyen (1510700@hcmut.edu.vn).
 
 ## References
 
